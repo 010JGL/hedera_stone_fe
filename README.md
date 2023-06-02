@@ -2,6 +2,8 @@
 
 Run `npm install`
 
+`npm install typescript -g`
+
 
 
 
